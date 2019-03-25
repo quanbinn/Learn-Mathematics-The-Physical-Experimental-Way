@@ -22,17 +22,16 @@
 - [鸡兔同笼问题（实验工具Done）](/chapters/四年级/鸡兔同笼问题.md)
 - [盈亏问题（实验工具Done）](/chapters/四年级/盈亏问题.md)
 
-### 五年级
+### 五年级（实验工具Done）
 
 - [分析相邻数（Done）](/chapters/五年级/分析相邻数.md)
 - [牛吃草问题（实验工具Done）](/chapters/五年级/牛吃草问题.md)
-- [平均数问题](/chapters/五年级/平均数问题.md)
-- [数列求和](/chapters/五年级/数列求和.md)
-- [质数与合数](/chapters/五年级/质数与合数.md)
-- [约数与倍数](/chapters/五年级/约数与倍数.md)
-- [数的整除](/chapters/五年级/数的整除.md)
-- [余数问题](/chapters/五年级/余数问题.md)
-- [几何面积](/chapters/五年级/几何面积.md)
+- [平均数问题（实验工具Done）](/chapters/五年级/平均数问题.md)
+- [数列求和（实验工具Done）](/chapters/五年级/数列求和.md)
+- [质数与合数（实验工具Done）](/chapters/五年级/质数与合数.md)
+- [约数与倍数（实验工具Done）](/chapters/五年级/约数与倍数.md)
+- [数的整除（实验工具Done）](/chapters/五年级/数的整除.md)
+- [余数问题（实验工具Done）](/chapters/五年级/余数问题.md)
 
 ### 六年级
 
@@ -48,4 +47,3 @@
 - [时钟问题-钟面追及](/chapters/六年级/时钟问题-钟面追及.md)
 - [浓度与配比](/chapters/六年级/浓度与配比.md)
 - [经济问题](/chapters/六年级/经济问题.md)
-- [简单方程](/chapters/六年级/简单方程.md)
