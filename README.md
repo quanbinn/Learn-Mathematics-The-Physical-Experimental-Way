@@ -1,5 +1,5 @@
-﻿# Learn-Mathematical-Olympiad-The-Interactive-Way
-《用交互法高效学奥数》
+# Learn-Mathematical-Olympiad-The-Interactive-Way
+《用实验法高效学数学（奥数）》
 
 ### 实验前的准备
 
@@ -25,7 +25,7 @@
 ### 五年级
 
 - [分析相邻数（Done）](/chapters/五年级/分析相邻数.md)
-- [牛吃草问题](/chapters/五年级/牛吃草问题.md)
+- [牛吃草问题 (Process)](/chapters/五年级/牛吃草问题.md)
 - [平均数问题](/chapters/五年级/平均数问题.md)
 - [数列求和](/chapters/五年级/数列求和.md)
 - [质数与合数](/chapters/五年级/质数与合数.md)
