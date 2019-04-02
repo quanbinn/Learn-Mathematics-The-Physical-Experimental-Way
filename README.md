@@ -23,7 +23,7 @@
 
 ### 五年级
 
-- [分析相邻数（Done）](/chapters/五年级/分析相邻数.md)
-- [牛吃草问题](/chapters/五年级/牛吃草问题.md)
+- [分析相邻数(Done)](/chapters/五年级/分析相邻数.md)
+- [牛吃草问题(Process)](/chapters/五年级/牛吃草问题.md)
 - [平均数问题](/chapters/五年级/平均数问题.md)
 - [分解质因数](/chapters/五年级/分解质因数.md)
