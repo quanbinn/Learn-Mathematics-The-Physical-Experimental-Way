@@ -12,18 +12,15 @@
 
 ### 三年级
 
-- [年龄问题(Done)](/chapters/三年级/年龄问题.md)
-- [植树问题](/chapters/三年级/植树问题.md)
-- [最大最小长方形周长问题](/chapters/三年级/最大最小长方形周长问题.md)
+- [年龄问题](/chapters/三年级/年龄问题.md)
 
 ### 四年级
 
-- [鸡兔同笼问题(Done)](/chapters/四年级/鸡兔同笼问题.md)
-- [盈亏问题](/chapters/四年级/盈亏问题.md)
+- [鸡兔同笼问题](/chapters/四年级/鸡兔同笼问题.md)
+- [盈亏问题(Process)](/chapters/四年级/盈亏问题.md)
 
 ### 五年级
 
-- [分析相邻数(Done)](/chapters/五年级/分析相邻数.md)
-- [牛吃草问题(Done)](/chapters/五年级/牛吃草问题.md)
-- [平均数问题](/chapters/五年级/平均数问题.md)
-- [分解质因数](/chapters/五年级/分解质因数.md)
+- [分析相邻数](/chapters/五年级/分析相邻数.md)
+- [牛吃草问题](/chapters/五年级/牛吃草问题.md)
+
