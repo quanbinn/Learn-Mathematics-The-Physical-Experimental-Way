@@ -1,4 +1,4 @@
-# Learn-Mathematical-Olympiad-The-Interactive-Way 《用实体实验法高效学数学（含深度学习的数学基础）》
+# Learn-Mathematical-Olympiad-The-Interactive-Way 《用实体实验法学数学（含深度学习的数学基础）》
 
 ### 实验前的准备
 
