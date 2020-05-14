@@ -52,6 +52,7 @@
 - [正态分布](/chapters/概率/？？？？.md)
 - [马尔可夫链](/chapters/概率/？？？？.md)
 - [马尔可夫决策过程](/chapters/概率/？？？？.md)
+- [Bellman方程](/chapters/概率/Bellman方程.md)
 - [蒙特卡洛？？](/chapters/概率/？？？？.md)
 
 ### 统计
