@@ -50,9 +50,6 @@
 - [抓珠子实验和贝叶斯公式](/chapters/概率/抓珠子实验和贝叶斯公式.md)
 - [随机变量](/chapters/概率/？？？？.md)
 - [正态分布](/chapters/概率/？？？？.md)
-- [马尔可夫链](/chapters/概率/？？？？.md)
-- [马尔可夫决策过程](/chapters/概率/？？？？.md)
-- [Bellman方程](/chapters/概率/Bellman方程.md)
 - [蒙特卡洛？？](/chapters/概率/？？？？.md)
 
 ### 统计
