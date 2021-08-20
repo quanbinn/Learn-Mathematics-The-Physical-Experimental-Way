@@ -31,6 +31,13 @@
 - [计算出斐波那契数列中的各个整数值](/chapters/数论/计算出斐波那契数列中的各个整数值.md)
 - [体验1+2+3+...+n的计算过程](/chapters/数论/体验1+2+3+...+n的计算过程.md)
 
+### 欧几里得几何
+- [用1个例子体验角度的用途](/chapters/欧几里得几何/用1个例子体验角度的用途.md)
+- [Sine](/chapters/欧几里得几何/Sine.md)
+- [Cosine](/chapters/欧几里得几何/Cosine.md)
+- [Tangent](/chapters/欧几里得几何/Tangent.md)
+- [Arctangent](/chapters/欧几里得几何/Arctangent.md)
+
 ### 微分
 
 - [用橡皮筋和小塑料棍感受函数某点的切线](/chapters/微分/用橡皮筋和小塑料棍感受函数某点的切线.md)
