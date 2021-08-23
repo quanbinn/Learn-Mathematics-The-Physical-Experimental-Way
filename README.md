@@ -32,11 +32,11 @@
 - [体验1+2+3+...+n的计算过程](/chapters/数论/体验1+2+3+...+n的计算过程.md)
 
 ### 欧几里得几何
-- [用1个例子体验角度的用途](/chapters/欧几里得几何/用1个例子体验角度的用途.md)
-- [Sine](/chapters/欧几里得几何/Sine.md)
-- [Cosine](/chapters/欧几里得几何/Cosine.md)
-- [Tangent](/chapters/欧几里得几何/Tangent.md)
-- [Arctangent](/chapters/欧几里得几何/Arctangent.md)
+- [用太阳高度角的例子体验角度的用途](/chapters/欧几里得几何/用太阳高度角的例子体验角度的用途.md)
+- [在坐标纸上绘制Sine曲线](/chapters/欧几里得几何/在坐标纸上绘制Sine曲线.md)
+- [在坐标纸上绘制Cosine曲线](/chapters/欧几里得几何/在坐标纸上绘制Cosine曲线.md)
+- [在坐标纸上绘制Tangent曲线](/chapters/欧几里得几何/在坐标纸上绘制Tangent曲线.md)
+- [在坐标纸上绘制Arctangent曲线](/chapters/欧几里得几何/在坐标纸上绘制Arctangent曲线.md)
 
 ### 微分
 
