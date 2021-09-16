@@ -36,7 +36,6 @@
 - [用绳子量出圆木板的周长与直径的比值感受π的近似数值](/chapters/欧几里得几何/用绳子量出圆木板的周长与直径的比值感受π的近似数值.md)
 - [在坐标纸上绘制Sine和Cosine曲线](/chapters/欧几里得几何/在坐标纸上绘制Sine和Cosine曲线.md)
 - [在坐标纸上绘制Tangent和Cotangent曲线](/chapters/欧几里得几何/在坐标纸上绘制Tangent和Cotangent曲线.md)
-- [用太阳高度角的例子体验角度的用途](/chapters/欧几里得几何/用太阳高度角的例子体验角度的用途.md)
 
 ### 微分
 
