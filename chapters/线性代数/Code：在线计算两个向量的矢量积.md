@@ -147,3 +147,5 @@ print('#3:', v.area_of_triangle_with(w))
 ## 参考文献及资料
 
 1. [**14.Coding Cross Products** of Linear Algebra Refresher Course from **Udacity.com**](https://classroom.udacity.com/courses/ud953/lessons/4374471116/concepts/45834932680923)
+2. [Parallelogram](https://en.wikipedia.org/wiki/Parallelogram)
+3. [Parallelogram law](https://en.wikipedia.org/wiki/Parallelogram_law)
