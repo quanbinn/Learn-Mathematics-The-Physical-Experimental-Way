@@ -1,4 +1,4 @@
-# Code：在线计算两个向量的矢量积
+﻿# Code：在线计算两个向量的矢量积
 
 ## 打开实验文件
 
@@ -131,17 +131,17 @@ class Vector:
 	def __eq__(self, v):
 		return self.coordinates == v.coordinates
 
-v = Vector([8.462, 7.893, -8.187])
-w = Vector([6.984, -5.975, 4.778])
-print('#1:', v.cross(w))
+vector1 = Vector([8.462, 7.893, -8.187])
+vector2 = Vector([6.984, -5.975, 4.778])
+print('#1:', vector1.cross(vector2))
 
-v = Vector([-8.987, -9.838, 5.031])
-w = Vector([-4.268, -1.861, -8.866])
-print('#2:', v.area_of_parallelogram_with(w))
+vector1 = Vector([-8.987, -9.838, 5.031])
+vector2 = Vector([-4.268, -1.861, -8.866])
+print('#2:', vector1.area_of_parallelogram_with(vector2))
 
-v = Vector([1.5, 9.547, 3.691])
-w = Vector([-6.007, 0.124, 5.772])
-print('#3:', v.area_of_triangle_with(w))
+vector1 = Vector([1.5, 9.547, 3.691])
+vector2 = Vector([-6.007, 0.124, 5.772])
+print('#3:', vector1.area_of_triangle_with(vector2))
 ```
 
 ## 参考文献及资料
