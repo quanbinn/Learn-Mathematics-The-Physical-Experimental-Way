@@ -178,6 +178,6 @@ print('intersection 2:' + ell1.intersection_with(ell2))
 
 ## 参考文献及资料
 
-1. [**14.Coding Cross Products** of Linear Algebra Refresher Course from **Udacity.com**](https://classroom.udacity.com/courses/ud953/lessons/4374471116/concepts/45834932680923)
-2. [Parallelogram](https://en.wikipedia.org/wiki/Parallelogram)
-3. [Parallelogram law](https://en.wikipedia.org/wiki/Parallelogram_law)
+1. [**4.Coding Functions for Lines** of Linear Algebra Refresher Course from **Udacity.com**](https://classroom.udacity.com/courses/ud953/lessons/4624329808/concepts/48972186200923)
+2. [Line–line intersection](https://en.wikipedia.org/wiki/Line-line_intersection)
+3. [Intersection](https://en.wikipedia.org/wiki/Intersection)
