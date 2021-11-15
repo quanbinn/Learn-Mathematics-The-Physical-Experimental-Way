@@ -41,6 +41,7 @@ $x_i^2$
  
 $log_2^x$
 
+a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
 
 ### 函数与解析几何
 
