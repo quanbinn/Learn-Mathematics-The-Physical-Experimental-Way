@@ -9,7 +9,5 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number) 
-	- [四角锥数](https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%A7%92%E9%8C%90%E6%95%B8) 
-
-2. [关于前n个自然数的平方和公式的证明方法](https://blog.csdn.net/Mmdapl/article/details/79660983)
+	- [e (mathematical constant)](https://en.wikipedia.org/wiki/E_(mathematical_constant)) 
+	- [<i>e</i> (数学常数)](https://zh.wikipedia.org/wiki/E_(%E6%95%B0%E5%AD%A6%E5%B8%B8%E6%95%B0)) 
