@@ -12,5 +12,7 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Composite number](https://en.wikipedia.org/wiki/Composite_number) 
-	- [合数](https://zh.wikipedia.org/wiki/%E5%90%88%E6%95%B0) 
+	- [Equation](https://en.wikipedia.org/wiki/Equation) 
+	- [方程](https://zh.wikipedia.org/wiki/%E6%96%B9%E7%A8%8B) 
+	- [Linear equation](https://en.wikipedia.org/wiki/Linear_equation) 
+	- [一元一次方程](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B#%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F) 
