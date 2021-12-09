@@ -27,7 +27,7 @@ y = radius * np.sin( angle )
  
 figure, axes = plt.subplots( 1 ) 
  
-axes.plot( x, y ) 
+axes.plot( x, y ) # axes.plot(x,y)
 axes.set_aspect( 1 ) 
  
 plt.title( 'Parametric Equation Circle' ) 
@@ -46,7 +46,7 @@ a=2.     #radius on the x-axis
 b=1.5    #radius on the y-axis
 
 t = np.linspace(0, 2*pi, 100)
-plt.plot( u+a*np.cos(t) , v+b*np.sin(t) )
+plt.scatter( u+a*np.cos(t) , v+b*np.sin(t) ) # plt.plot( u+a*np.cos(t) , v+b*np.sin(t) ) 
 plt.grid(color='lightgray',linestyle='--')
 plt.show()
 ```
@@ -60,7 +60,7 @@ t = np.linspace(0,360,360)
 x =10*np.cos(np.radians(t)) #10 is minor axis of ellipse
 y = 50*np.sin(np.radians(t)) #50 is major axis of ellipse
 
-plt.plot(x,y)
+plt.scatter(x,y) # plt.plot(x,y)
 plt.show()
 ```
 

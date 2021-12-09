@@ -1,4 +1,4 @@
-# Code：在线绘出抛物线等规则曲线的轮廓
+# Code：在线绘出线段
 
 ## 打开实验文件
 
@@ -13,23 +13,45 @@
 - 单机右方的[Python Online Compiler](https://www.alphacodingskills.com/compile-python-online.php)，稍后在浏览器里会显示python的运行环境。
 - 把下面的这段python代码拷贝到这个页面“Run Code”下侧的深蓝色的空白栏中， 然后单击上方的按键“Run Code”。
 
-### y = 1/x
+### y = -2x
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.linspace(-20,-0.03,20)
+x = np.linspace(start = -10, stop = 10, num = 10)
 print(x)
-y = 1/x
+y = -2*x
+print(y)
 
-plt.scatter(x,y)
+plt.scatter(x, y) # plt.plot(x,y)
 plt.show()
+```
 
-x = np.linspace(0.03,20,20)
+### y = 2x
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(start = -10, stop = 10, num = 10)
 print(x)
-y = 1/x
+y = 2*x
+print(y)
 
-plt.scatter(x,y)
+plt.scatter(x, y) # plt.plot(x,y)
+plt.show()
+```
+
+### y = x + 5
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(start = -10, stop = 10, num = 10)
+print(x)
+y = x + 5
+print(y)
+
+plt.scatter(x, y) # plt.plot(x,y)
 plt.show()
 ```
 
