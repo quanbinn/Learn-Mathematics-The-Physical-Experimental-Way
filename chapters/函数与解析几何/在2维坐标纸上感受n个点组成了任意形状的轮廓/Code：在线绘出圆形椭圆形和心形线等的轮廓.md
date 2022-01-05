@@ -18,11 +18,11 @@
 import numpy as np 
 import matplotlib.pyplot as plt 
  
-angle = np.linspace( 0 , 2 * np.pi , 35 ) 
-radius = 0.4
+radian = np.linspace( 0 , 2 * np.pi , 13 ) 
+radius = 10
  
-x = radius * np.cos( angle ) 
-y = radius * np.sin( angle ) 
+x = radius * np.cos( radian ) 
+y = radius * np.sin( radian ) 
 
 plt.gca().set_aspect( 1 ) 
 
@@ -33,30 +33,34 @@ plt.show()
 ### 椭圆形
 ```python
 import numpy as np
-from matplotlib import pyplot as plt
-from math import pi
+import matplotlib.pyplot as plt
 
-u=1.     #x-position of the center
-v=0.5    #y-position of the center
-a=2.     #radius on the x-axis
-b=1.5    #radius on the y-axis
+angle = np.linspace(0,360,15)
 
-t = np.linspace(0, 2*pi, 100)
-plt.scatter( u+a*np.cos(t) , v+b*np.sin(t) ) # plt.plot( u+a*np.cos(t) , v+b*np.sin(t) ) 
-plt.grid(color='lightgray',linestyle='--')
+x =15 * np.cos(np.radians(angle)) # 15 is the major axis of ellipse
+y =5 * np.sin(np.radians(angle)) # 5 is minor axis of ellipse
+
+plt.gca().set_aspect( 1 ) 
+plt.scatter(x,y) 
 plt.show()
 ```
 
 ```python
 import numpy as np
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
+from math import pi
 
-t = np.linspace(0,360,360)
+u = 4     # x-position of the center
+v = 3    # y-position of the center
+a = 10     # radius on the x-axis
+b = 5    # radius on the y-axis
 
-x =10*np.cos(np.radians(t)) #10 is minor axis of ellipse
-y = 50*np.sin(np.radians(t)) #50 is major axis of ellipse
+radian = np.linspace(0, 2*pi, 35)
 
-plt.scatter(x,y) # plt.plot(x,y)
+plt.gca().set_aspect( 1 ) 
+plt.grid(color='lightgray',linestyle='--')
+
+plt.scatter( u + a*np.cos(radian) , v + b*np.sin(radian) )
 plt.show()
 ```
 
