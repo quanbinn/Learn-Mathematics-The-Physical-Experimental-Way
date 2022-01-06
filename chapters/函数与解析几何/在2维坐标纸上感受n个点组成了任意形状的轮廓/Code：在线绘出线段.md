@@ -18,7 +18,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.linspace(start = -10, stop = 10, num = 10)
+x = np.linspace(start = -5, stop = 5, num = 6)
 print(x)
 y = -2*x
 print(y)
@@ -32,7 +32,7 @@ plt.show()
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.linspace(start = -10, stop = 10, num = 10)
+x = np.linspace(start = -5, stop = 5, num = 6)
 print(x)
 y = 2*x
 print(y)
@@ -46,7 +46,7 @@ plt.show()
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.linspace(start = -10, stop = 10, num = 10)
+x = np.linspace(start = -5, stop = 5, num = 6)
 print(x)
 y = x + 5
 print(y)
