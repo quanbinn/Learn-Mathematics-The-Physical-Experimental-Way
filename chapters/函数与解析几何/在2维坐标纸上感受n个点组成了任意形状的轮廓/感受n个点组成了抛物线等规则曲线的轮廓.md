@@ -6,5 +6,11 @@
 
 ## 参考文献及资料
 
-1. [matplotlib：tutorials](https://matplotlib.org/tutorials/index.html)
+1. 维基百科
+	- [Conic section](https://en.wikipedia.org/wiki/Conic_section) 
+	- [圆锥曲线](https://zh.wikipedia.org/wiki/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF) 
+	- [Parabola](https://en.wikipedia.org/wiki/Parabola) 
+	- [抛物线](https://zh.wikipedia.org/wiki/%E6%8A%9B%E7%89%A9%E7%BA%BF) 
+	- [Hyperbola](https://en.wikipedia.org/wiki/Hyperbola) 
+	- [双曲线](https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%9B%B2%E7%BA%BF) 
 

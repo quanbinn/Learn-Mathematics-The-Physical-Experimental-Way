@@ -7,11 +7,11 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Circle](https://en.wikipedia.org/wiki/Circle) 
-	- [圆](https://zh.wikipedia.org/wiki/%E5%9C%86) 
-	- [Ellipse](https://en.wikipedia.org/wiki/Ellipse) 
-	- [椭圆](https://zh.wikipedia.org/wiki/%E6%A4%AD%E5%9C%86) 
-	- [Cardioid](https://en.wikipedia.org/wiki/Cardioid) 
-	- [心脏线](https://zh.wikipedia.org/wiki/%E5%BF%83%E8%84%8F%E7%BA%BF) 
+	- [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) 
+	- [贝塞尔曲线](https://zh.wikipedia.org/wiki/%E8%B2%9D%E8%8C%B2%E6%9B%B2%E7%B7%9A) 
+	- [B-spline](https://en.wikipedia.org/wiki/B-spline) 
+	- [B样条](https://zh.wikipedia.org/wiki/B%E6%A0%B7%E6%9D%A1) 
+	- [Non-uniform rational B-spline](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) 
+	- [非均匀有理B样条](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1) 
 
 
