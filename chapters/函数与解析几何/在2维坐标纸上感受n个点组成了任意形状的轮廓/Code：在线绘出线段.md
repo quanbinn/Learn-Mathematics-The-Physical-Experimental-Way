@@ -17,6 +17,7 @@
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
+plt.gca().set_aspect( 1 ) 
 
 x = np.linspace(start = -5, stop = 5, num = 6)
 print(x)
@@ -31,6 +32,7 @@ plt.show()
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
+plt.gca().set_aspect( 1 ) 
 
 x = np.linspace(start = -5, stop = 5, num = 6)
 print(x)
@@ -45,6 +47,7 @@ plt.show()
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
+plt.gca().set_aspect( 1 ) 
 
 x = np.linspace(start = -5, stop = 5, num = 6)
 print(x)
