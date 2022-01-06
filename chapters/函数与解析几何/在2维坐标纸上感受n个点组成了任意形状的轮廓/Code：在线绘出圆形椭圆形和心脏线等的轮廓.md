@@ -17,14 +17,13 @@
 ```python
 import numpy as np 
 import matplotlib.pyplot as plt 
+plt.gca().set_aspect( 1 ) 
  
 radian = np.linspace( 0 , 2 * np.pi , 13 ) 
 radius = 10
  
 x = radius * np.cos( radian ) 
 y = radius * np.sin( radian ) 
-
-plt.gca().set_aspect( 1 ) 
 
 plt.scatter( x, y ) 
 plt.show()
@@ -34,13 +33,13 @@ plt.show()
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
+plt.gca().set_aspect( 1 ) 
 
 angle = np.linspace(0,360,15)
 
 x =15 * np.cos(np.radians(angle)) # 15 is the major axis of ellipse
 y =5 * np.sin(np.radians(angle)) # 5 is minor axis of ellipse
 
-plt.gca().set_aspect( 1 ) 
 plt.scatter(x,y) 
 plt.show()
 ```
@@ -49,6 +48,7 @@ plt.show()
 import numpy as np
 from matplotlib import pyplot as plt
 from math import pi
+plt.gca().set_aspect( 1 ) 
 
 u = 4     # x-position of the center
 v = 3    # y-position of the center
@@ -57,7 +57,6 @@ b = 5    # radius on the y-axis
 
 radian = np.linspace(0, 2*pi, 35)
 
-plt.gca().set_aspect( 1 ) 
 plt.grid(color='lightgray',linestyle='--')
 
 plt.scatter( u + a*np.cos(radian) , v + b*np.sin(radian) )
