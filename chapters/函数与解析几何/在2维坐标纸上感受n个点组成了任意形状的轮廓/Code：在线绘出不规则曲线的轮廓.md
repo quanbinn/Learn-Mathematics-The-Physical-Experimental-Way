@@ -18,6 +18,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from mpmath import diff
+plt.gca().set_aspect( 1 ) 
 
 # 计算基函数，i为控制顶点序号，k为次数，u为代入的值，NodeVector为节点向量
 # 该函数返回第i+1个k次基函数在u处的值
