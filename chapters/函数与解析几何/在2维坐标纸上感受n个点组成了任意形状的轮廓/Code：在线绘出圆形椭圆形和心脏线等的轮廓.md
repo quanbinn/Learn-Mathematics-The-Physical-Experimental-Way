@@ -25,7 +25,8 @@ radius = 10
 x = radius * np.cos( radian ) 
 y = radius * np.sin( radian ) 
 
-plt.scatter( x, y ) 
+plt.scatter( 0 + x, 0 + y ) # add the x and y value of center point 
+# plt.scatter( 5 + x, 5 + y ) # add the x and y value of center point 
 plt.show()
 ```
 
@@ -37,8 +38,8 @@ plt.gca().set_aspect( 1 )
 
 angle = np.linspace(0,360,15)
 
-x =15 * np.cos(np.radians(angle)) # 15 is the major axis of ellipse
-y =5 * np.sin(np.radians(angle)) # 5 is minor axis of ellipse
+x =0 + 15 * np.cos(np.radians(angle)) # 15 is the major axis of ellipse
+y =0 + 5 * np.sin(np.radians(angle)) # 5 is minor axis of ellipse
 
 plt.scatter(x,y) 
 plt.show()
@@ -91,6 +92,3 @@ plt.show()
 4. [6 Ways to Plot a Circle in Matplotlib](https://www.pythonpool.com/matplotlib-circle/)
 5. [Python Program to Plot Cardioid Curve](https://www.codesansar.com/python-programming-examples/plot-cardioid-curve.htm)
 6. [心脏线](https://baike.baidu.com/item/%E5%BF%83%E8%84%8F%E7%BA%BF/10323843?fromtitle=%E5%BF%83%E5%BD%A2%E7%BA%BF&fromid=10018818)
-
-
-
