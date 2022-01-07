@@ -36,9 +36,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 plt.gca().set_aspect( 1 ) 
 
-angle = np.linspace(0,360,15)
+angle = np.linspace(0,360,13)
+print(angle)
 
-x =0 + 15 * np.cos(np.radians(angle)) # 15 is the major axis of ellipse
+x =0 + 10 * np.cos(np.radians(angle)) # 15 is the major axis of ellipse
 y =0 + 5 * np.sin(np.radians(angle)) # 5 is minor axis of ellipse
 
 plt.scatter(x,y) 
