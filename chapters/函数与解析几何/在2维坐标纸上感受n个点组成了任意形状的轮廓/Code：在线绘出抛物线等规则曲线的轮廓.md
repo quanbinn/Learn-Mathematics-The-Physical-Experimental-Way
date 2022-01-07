@@ -19,9 +19,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 plt.gca().set_aspect( 1 ) 
 
-x = np.linspace(0,16,39)
+x = np.linspace(0,25,26)
 print(x)
-y = -(x**2)/30
+y = -(x**2)/30+20
 print(y)
 
 plt.scatter(x,y)
