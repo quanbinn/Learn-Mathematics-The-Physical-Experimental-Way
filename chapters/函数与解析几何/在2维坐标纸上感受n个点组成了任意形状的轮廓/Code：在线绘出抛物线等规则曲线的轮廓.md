@@ -13,7 +13,7 @@
 - 单机右方的[Python Online Compiler](https://www.alphacodingskills.com/compile-python-online.php)，稍后在浏览器里会显示python的运行环境。
 - 把下面的这段python代码拷贝到这个页面“Run Code”下侧的深蓝色的空白栏中， 然后单击上方的按键“Run Code”。
 
-### y = x**2
+### y = -x<sup>2</sup>/30+20
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
