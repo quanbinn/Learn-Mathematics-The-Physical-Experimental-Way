@@ -1,8 +1,8 @@
-# Code：在线计算两条线的交点
+﻿# Code：在线计算两条线的交点
 
 ## 打开实验文件
 
-- 单机右方的[onlinegdb](https://www.onlinegdb.com/online_python_compiler)，浏览器里会打开一个新的页面，把下面的这些代码段分别拷贝到main.py下面的空白栏中，然后单击空白栏最上面一栏的按键“Run”。
+- 单击右方的[onlinegdb](https://www.onlinegdb.com/online_python_compiler)，浏览器里会打开一个新的页面，把下面的这些代码段分别拷贝到main.py下面的空白栏中，然后单击空白栏最上面一栏的按键“Run”。
 
 ```python
 from math import acos, sqrt, pi
