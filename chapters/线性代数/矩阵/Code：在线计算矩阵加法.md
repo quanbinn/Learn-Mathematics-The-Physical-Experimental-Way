@@ -1,0 +1,143 @@
+# Code：在线计算矩阵加法
+
+## 开始做代码实验
+
+### 在线调试环境1
+
+- 单击右方的[pythontutor](https://pythontutor.com/visualize.html#mode=edit)，稍后在浏览器里会显示Python的运行环境。
+- 把下面的这段python代码拷贝到这个页面中间的空白栏中， 然后单击左下方的按键“Visualize Execution”。
+
+### 在线调试环境2
+
+- 单击右方的[Jupyter Notebook](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb)，稍后在浏览器里会显示Jupyter Notebook的运行环境。
+- 在File的第一个下拉菜单“New Notebook” 的右侧箭头处选择“Python 3”，然后会显示一个新的页面
+- 把下面的这段python代码拷贝到这个页面“In [ ]:”右侧的空白栏中， 然后单击上方的按键“运行”。
+
+### 在线调试环境3
+
+- 单击右方的[Python Online Compiler](https://trinket.io/python3/a5bd54189b)，稍后在浏览器里会显示python的运行环境。
+- 把下面的这段python代码拷贝到这个页面左侧的空白栏中， 然后单击上方的按键“Run”。
+
+```python
+### Assign the vector <11, 11, 0> to the variable v
+v = [11, 11, 0]
+print(v)
+
+### Assign the vector  <11, 11, 0> to the variable mv (matrix: a list of lists). 
+mv = [
+    [11, 11, 0]
+]
+print(mv)
+
+### TODO: Assign the vector <11, 11, 0> to the variable vT (matrix: a list of lists).
+vT = [
+    [11],
+    [11],
+    [0]
+]
+print(vT)
+
+### Assign the following matrix to the variable m
+### 0 0 0 
+### 9 0 0
+### 0 9 3
+
+m = [
+    [0, 0, 0],
+    [9, 0, 0],
+    [0, 9, 3]
+]
+print(m)
+
+### In matrix m, change the value in the second row last column from 0 to 5
+m[1][2] = 5
+print(m)
+
+### Use for loops to multiply each matrix element by 5
+r = []
+for i in range(len(m)):
+    row = m[i]
+    new_row = [] # empty row for now
+    for j in range(len(row)):
+        m_ij = m[i][j]
+        r_ij = 5 * m_ij
+        new_row.append(r_ij)
+    r.append(new_row)
+print(r)
+
+### Write a function called matrix_print() 
+def matrix_print(matrix):
+    for i in range(len(matrix)):
+        for j in range(len(matrix[0])):
+            m_ij = matrix[i][j]
+            print(m_ij, '\t', end="")
+        print('\n') # prints a new line
+    return
+
+m = [
+    [0, 0, 0],
+    [9, 0, 0],
+    [0, 9, 3]
+]
+
+matrix_print(m)
+```
+
+```python
+def matrix_addition(matrixA, matrixB):
+    '''
+    Calculates the sum of two matrices.
+    
+    INPUTS:
+        matrix A _ an m x n matrix
+        matrix B _ an m x n matrix
+    
+    OUPUT:
+        matrixSum _ sum of matrix A + matrix B
+    '''
+
+    # initialize matrix to hold the results
+    matrixSum = []
+    
+    # matrix to hold a row for appending sums of each element
+    row = []
+    
+    # For loop within a for loop to iterate over the matrices
+    for r in range(len(matrixA)):
+        row = [] # reset the list
+        for c in range(len(matrixA[0])):
+            row.append(matrixA[r][c] + matrixB[r][c]) # add the matrices
+        matrixSum.append(row)
+    
+    return matrixSum
+
+A = [
+    [0,0,0],
+    [7.5,0,0]
+]
+
+B = [
+    [9,6,0],
+    [9,6,0]
+]
+
+print(matrix_addition(A, B))
+
+# print(matrix_addition([7.5,0,0], [9,6,0]))
+
+print(matrix_addition([[7.5,0,0]],[[9,6,0]]))
+
+print(matrix_addition([
+    [4]], [
+    [5]]))
+    
+print(matrix_addition([[0,0,0], 
+                        [7.5,0,0]], 
+                       [[9,6,0], 
+                        [10,10,5]]))
+```
+
+## 参考文献及资料
+
+1. [Coding Matrices (Solution)](https://classroom.udacity.com/courses/ud953/lessons/4632564251/concepts/b135d1f5-04e4-4e63-bed8-cf3b0a2849e9)
+2. [Coding Matrix Addition (Solution)](https://classroom.udacity.com/courses/ud953/lessons/4632564251/concepts/873b4c43-91ff-40ba-885c-96e6bed65afd)
