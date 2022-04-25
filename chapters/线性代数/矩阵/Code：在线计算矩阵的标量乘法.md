@@ -19,23 +19,21 @@
 - 把下面的这段python代码拷贝到这个页面左侧的空白栏中， 然后单击上方的按键“Run”。
 
 ```python
-# Vectors in Linear Algebra Sequnce (5)
-# Scalar Multiplication of Vector
-
-def scalar(c, a):
-    b = []
-    for i in range(len(a)):
-        b.append(c*a[i])
-    return b    
-
-a = [3, 5, -5, 8] # This is a 4 dimensional vector
-
-print("Vector a = ", a)
-c = int(input("Enter the value of scalar multiplier: "))
-
-# The vector b will have the same dimensions 
-# but the overall magnitute is c times a
-print("Vector (b = c*a) = ", scalar(c, a))
+def scalarMultiplication(multiplier,matrix):
+    result = []
+    for i in range(len(matrix)):
+        row = matrix[i]
+        new_row = [] # empty row for now
+        for j in range(len(row)):
+            matrix_ij = matrix[i][j]
+            result_ij = multiplier * matrix_ij
+            new_row.append(result_ij)
+        result.append(new_row)
+    print(result)
+    
+scalarMultiplication(7.41, [[1.671,-1.012,-0.318]])
+scalarMultiplication(1.4, [[0,2,3],[7,-3,0]])
+scalarMultiplication(2, [[0,0,0],[-5,7.5,0],[3.5,6.9,4.5]])
 ```
 
 ## 参考文献及资料

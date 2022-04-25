@@ -19,53 +19,38 @@
 - 把下面的这段python代码拷贝到这个页面左侧的空白栏中， 然后单击上方的按键“Run”。
 
 ```python
-### Assign the vector <11, 11, 0> to the variable v
-v = [11, 11, 0]
-print(v)
+vector = [11, 11, 0] ### Assign the vector <11, 11, 0> to the variable v
+print(vector)
 
-### Assign the vector  <11, 11, 0> to the variable mv (matrix: a list of lists). 
-mv = [
+### Assign the vector  <11, 11, 0> to the variable mv (matrix: a list of lists) 
+matrixVector1 = [
     [11, 11, 0]
 ]
-print(mv)
+print(matrixVector1)
 
-### TODO: Assign the vector <11, 11, 0> to the variable vT (matrix: a list of lists).
-vT = [
+### Assign the vector <11, 11, 0> to the variable vT (matrix: a list of lists)
+matrixVector2 = [
     [11],
     [11],
     [0]
 ]
-print(vT)
+print(matrixVector2)
 
-### Assign the following matrix to the variable m
+### Assign the following matrix to the variable matrix
 ### 0 0 0 
 ### 9 0 0
 ### 0 9 3
 
-m = [
+matrix = [
     [0, 0, 0],
     [9, 0, 0],
     [0, 9, 3]
 ]
-print(m)
+print(matrix)
 
-### In matrix m, change the value in the second row last column from 0 to 5
-m[1][2] = 5
-print(m)
+matrix[1][2] = 5 ### In matrix, change the value in the second row last column from 0 to 5
+print(matrix)
 
-### Use for loops to multiply each matrix element by 5
-r = []
-for i in range(len(m)):
-    row = m[i]
-    new_row = [] # empty row for now
-    for j in range(len(row)):
-        m_ij = m[i][j]
-        r_ij = 5 * m_ij
-        new_row.append(r_ij)
-    r.append(new_row)
-print(r)
-
-### Write a function called matrix_print() 
 def matrix_print(matrix):
     for i in range(len(matrix)):
         for j in range(len(matrix[0])):
@@ -74,33 +59,20 @@ def matrix_print(matrix):
         print('\n') # prints a new line
     return
 
-m = [
+matrix = [
     [0, 0, 0],
     [9, 0, 0],
     [0, 9, 3]
 ]
 
-matrix_print(m)
+matrix_print(matrix)
 ```
 
 ```python
 def matrix_addition(matrixA, matrixB):
-    '''
-    Calculates the sum of two matrices.
-    
-    INPUTS:
-        matrix A _ an m x n matrix
-        matrix B _ an m x n matrix
-    
-    OUPUT:
-        matrixSum _ sum of matrix A + matrix B
-    '''
 
-    # initialize matrix to hold the results
-    matrixSum = []
-    
-    # matrix to hold a row for appending sums of each element
-    row = []
+    matrixSum = []    # initialize matrix to hold the results
+    row = []     # matrix to hold a row for appending sums of each element
     
     # For loop within a for loop to iterate over the matrices
     for r in range(len(matrixA)):
@@ -111,30 +83,46 @@ def matrix_addition(matrixA, matrixB):
     
     return matrixSum
 
-A = [
-    [0,0,0],
-    [7.5,0,0]
-]
-
-B = [
-    [9,6,0],
-    [9,6,0]
-]
-
-print(matrix_addition(A, B))
-
-# print(matrix_addition([7.5,0,0], [9,6,0]))
-
-print(matrix_addition([[7.5,0,0]],[[9,6,0]]))
-
-print(matrix_addition([
-    [4]], [
-    [5]]))
-    
-print(matrix_addition([[0,0,0], 
-                        [7.5,0,0]], 
-                       [[9,6,0], 
-                        [10,10,5]]))
+print(matrix_addition([[10]],
+                      [[2]]))
+                                                   
+print(matrix_addition([[10,1]],
+                      [[2,7]]))
+                      
+print(matrix_addition([[10,1,0]],
+                      [[2,7,0]]))
+                      
+print(matrix_addition([[0,0,0]],
+                      [[11,0,0]]))
+                      
+print(matrix_addition([[0,0,0],
+                       [7.5,0,0]],
+                      [[9,9,6],
+                       [9,9,6]]))
+                       
+print(matrix_addition([[5,0,0],
+                       [0,7.5,0],
+                       [8.5,6.9,4.5]],
+                     [[5,5,0],
+                       [5,5,0],
+                       [5,5,0]]))
+                       
+print(matrix_addition([[0,0,0],
+                       [12,0,0],
+                       [12,12,0],
+                       [0,12,0],
+                       [0,0,12],
+                       [12,0,12],
+                       [12,12,12],
+                       [0,12,12]],
+                      [[9,5,6],
+                       [9,5,6],
+                       [9,5,6],
+                       [9,5,6],
+                       [9,5,6],
+                       [9,5,6],
+                       [9,5,6],
+                       [9,5,6]]))
 ```
 
 ## 参考文献及资料
