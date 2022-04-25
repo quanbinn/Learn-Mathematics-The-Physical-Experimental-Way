@@ -22,13 +22,13 @@
 vector = [11, 11, 0] ### Assign the vector <11, 11, 0> to the variable v
 print(vector)
 
-### Assign the vector  <11, 11, 0> to the variable mv (matrix: a list of lists) 
+### Assign the vector  <11, 11, 0> to the variable matrixVector1 (matrix: a list of lists) 
 matrixVector1 = [
     [11, 11, 0]
 ]
 print(matrixVector1)
 
-### Assign the vector <11, 11, 0> to the variable vT (matrix: a list of lists)
+### Assign the vector <11, 11, 0> to the variable matrixVector2 (matrix: a list of lists)
 matrixVector2 = [
     [11],
     [11],
