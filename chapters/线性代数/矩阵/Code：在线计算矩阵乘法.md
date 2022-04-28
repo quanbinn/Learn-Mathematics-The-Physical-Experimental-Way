@@ -118,8 +118,7 @@ def dot_product(vector_one, vector_two):
 
     return result
     
-# Takes two matrices,multiplies them together and then returns
-# the results.
+# Takes two matrices,multiplies them together and then returns the results.
 def matrix_multiplication(matrixA, matrixB):
     
     # Store the number of rows in A and the number of columns in B.
