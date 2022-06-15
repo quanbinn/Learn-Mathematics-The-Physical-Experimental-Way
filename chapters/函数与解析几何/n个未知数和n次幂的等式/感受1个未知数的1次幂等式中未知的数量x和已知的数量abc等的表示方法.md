@@ -75,6 +75,8 @@
 ## 参考文献及资料
 
 1. 维基百科
+	- [Variable (mathematics)](https://en.wikipedia.org/wiki/Variable_(mathematics)) 
+	- [变量](https://zh.wikipedia.org/wiki/%E8%AE%8A%E6%95%B8) 
 	- [Equation](https://en.wikipedia.org/wiki/Equation) 
 	- [等式](https://zh.wikipedia.org/wiki/%E6%96%B9%E7%A8%8B) 
 	- [Linear equation](https://en.wikipedia.org/wiki/Linear_equation) 
