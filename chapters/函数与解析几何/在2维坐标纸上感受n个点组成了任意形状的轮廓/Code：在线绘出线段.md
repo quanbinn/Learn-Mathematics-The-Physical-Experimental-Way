@@ -61,4 +61,8 @@ plt.show()
 ## 参考文献及资料
 
 1. [matplotlib：tutorials](https://matplotlib.org/tutorials/index.html)
+2. [Pyplot tutorial](https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
+3. [matplotlib.pyplot.gca](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.gca.html)
+4. [matplotlib.axes.Axes.set_aspect](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.set_aspect.html#matplotlib.axes.Axes.set_aspect)
+
 
