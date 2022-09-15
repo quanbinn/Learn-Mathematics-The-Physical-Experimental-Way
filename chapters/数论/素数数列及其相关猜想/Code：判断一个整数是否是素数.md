@@ -39,37 +39,22 @@ is_prime(15)
 #### 使用埃拉托斯特尼筛法打印出小于某个正整数的所有素数
 
 ```python
-# Python program to print all Primes Smaller 
-# than or equal to N using Sieve of Eratosthenes  
-  
 def SieveOfEratosthenes(num):
-    prime = [True for i in range(num+1)]
-    print(prime)
+    prime = [True for i in range(num+1)]     # print(prime)
 
-# boolean array
     p = 2
-    while (p * p <= num):
-  
-        # If prime[p] is not
-        # changed, then it is a prime
-        if (prime[p] == True):
-  
-            # Updating all multiples of p
-            for i in range(p * p, num+1, p):
+    while (p * p <= num):     
+        if (prime[p] == True):               # If prime[p] is not changed, then it is a prime            
+            for i in range(p * p, num+1, p): # Updating all multiples of p
                 prime[i] = False
         p += 1
   
-    # Print all prime numbers
-    for p in range(2, num+1):
+    for p in range(2, num+1):                # Print all prime numbers
         if prime[p]:
             print(p)
   
-# Driver code
-if __name__ == '__main__':
-    num = 50
-    print("Following are the prime numbers smaller"),
-    print("than or equal to", num)
-    SieveOfEratosthenes(num)
+num = 50
+SieveOfEratosthenes(num)
 ```
 
 ## 参考文献及资料
