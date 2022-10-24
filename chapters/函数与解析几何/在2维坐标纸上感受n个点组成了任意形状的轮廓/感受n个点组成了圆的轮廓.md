@@ -9,5 +9,4 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Circle](https://en.wikipedia.org/wiki/Circle) 
-	- [圆](https://zh.wikipedia.org/wiki/%E5%9C%86) 
+	- [Circle](https://en.wikipedia.org/wiki/Circle) | [圆](https://zh.wikipedia.org/wiki/%E5%9C%86) 

@@ -1,4 +1,4 @@
-﻿# Code：计算出斐波那契数列中的各个整数值
+# Code：计算出斐波那契数列中的各个整数值
 
 ## 开始做实体实验
 
@@ -112,8 +112,8 @@ console.log(fibonacci(6))
 ## 参考文献及资料
 
 1. 维基百科
-	- [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) 
-	- [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) 
+	- [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) | [斐波那契](https://zh.wikipedia.org/wiki/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91) 
+	- [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) | [斐波那契数](https://zh.wikipedia.org/wiki/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0) 
 
 2. [JavaScript实现斐波那契数列的四种方法介绍（代码）](https://www.php.cn/js-tutorial-416086.html) 
 

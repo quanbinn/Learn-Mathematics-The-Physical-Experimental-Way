@@ -17,11 +17,8 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) 
-	- [贝塞尔曲线](https://zh.wikipedia.org/wiki/%E8%B2%9D%E8%8C%B2%E6%9B%B2%E7%B7%9A) 
-	- [B-spline](https://en.wikipedia.org/wiki/B-spline) 
-	- [B样条](https://zh.wikipedia.org/wiki/B%E6%A0%B7%E6%9D%A1) 
-	- [Non-uniform rational B-spline](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) 
-	- [非均匀有理B样条](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1) 
+	- [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) | [贝塞尔曲线](https://zh.wikipedia.org/wiki/%E8%B2%9D%E8%8C%B2%E6%9B%B2%E7%B7%9A) 
+	- [B-spline](https://en.wikipedia.org/wiki/B-spline) | [B样条](https://zh.wikipedia.org/wiki/B%E6%A0%B7%E6%9D%A1) 
+	- [Non-uniform rational B-spline](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) | [非均匀有理B样条](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1) 
 
 

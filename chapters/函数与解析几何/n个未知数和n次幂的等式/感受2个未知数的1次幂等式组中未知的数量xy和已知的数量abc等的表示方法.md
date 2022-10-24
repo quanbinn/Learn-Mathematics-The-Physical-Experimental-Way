@@ -1,4 +1,4 @@
-﻿# 感受2个未知数的1次幂等式组中未知的数量xy和已知的数量abc等的表示方法
+# 感受2个未知数的1次幂等式组中未知的数量xy和已知的数量abc等的表示方法
 
 ## 开始做实体实验
 
@@ -41,5 +41,4 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Linear equation](https://en.wikipedia.org/wiki/Linear_equation) 
-	- [二元一次等式组](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B#%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84) 
+	- [Linear equation](https://en.wikipedia.org/wiki/Linear_equation) | [二元一次等式组](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B#%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84) 

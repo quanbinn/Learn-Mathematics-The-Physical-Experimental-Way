@@ -9,6 +9,5 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Ellipse](https://en.wikipedia.org/wiki/Ellipse) 
-	- [椭圆](https://zh.wikipedia.org/wiki/%E6%A4%AD%E5%9C%86) 
+	- [Ellipse](https://en.wikipedia.org/wiki/Ellipse) | [椭圆](https://zh.wikipedia.org/wiki/%E6%A4%AD%E5%9C%86) 
 

@@ -9,5 +9,4 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Cardioid](https://en.wikipedia.org/wiki/Cardioid) 
-	- [心脏线](https://zh.wikipedia.org/wiki/%E5%BF%83%E8%84%8F%E7%BA%BF) 
+	- [Cardioid](https://en.wikipedia.org/wiki/Cardioid) | [心脏线](https://zh.wikipedia.org/wiki/%E5%BF%83%E8%84%8F%E7%BA%BF) 
