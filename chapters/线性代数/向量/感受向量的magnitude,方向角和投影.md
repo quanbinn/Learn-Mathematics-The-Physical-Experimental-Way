@@ -7,7 +7,8 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Basis (linear algebra)](https://en.wikipedia.org/wiki/Basis_(linear_algebra)) | [基 (线性代数)](https://zh.wikipedia.org/wiki/%E5%9F%BA_(%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8)) 
-	- [Unit vector](https://en.wikipedia.org/wiki/Unit_vector) | [单位向量](https://zh.wikipedia.org/wiki/%E5%8D%95%E4%BD%8D%E5%90%91%E9%87%8F) 
+	- [Magnitude (mathematics)](hhttps://en.wikipedia.org/wiki/Magnitude_(mathematics)) | [量 (数学)](https://zh.wikipedia.org/wiki/%E9%87%8F_(%E6%95%B0%E5%AD%A6)) 
+	- [Angle](https://en.wikipedia.org/wiki/Angle) | [角](https://zh.wikipedia.org/wiki/%E8%A7%92) 
+	- [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra)) | [投影](https://zh.wikipedia.org/wiki/%E6%8A%95%E5%BD%B1) 
 
 2. [immersive linear algebra(Chapter 2: Vectors)](http://immersivemath.com/ila/ch02_vectors/ch02.html)
