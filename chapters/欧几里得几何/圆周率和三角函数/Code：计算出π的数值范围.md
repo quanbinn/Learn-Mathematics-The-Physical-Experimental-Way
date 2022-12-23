@@ -1,4 +1,4 @@
-# Code：在线计算等比的几何无穷级数
+# Code：计算出π的数值范围
 
 ## 打开实验文件
 
@@ -9,13 +9,18 @@
 - 把下面的这段python代码拷贝到这个页面“In [ ]:”右侧的空白栏中， 然后单击上方的按键“运行”。
 
 ```python
-# 计算出下面等比的几何无穷级数：
-n = 50
-sum = 0
+import math
 
-for i in range(1,n):
-    sum += 1/(2**i)
-    print(sum)
+numberOfSidesOfPolygon = 8192
+angle = math.pi / numberOfSidesOfPolygon
+print(angle)
+print(math.sin(angle))
+
+areaOfInscribedPolygon = math.sin(angle) * math.pi / angle
+print(areaOfInscribedPolygon)
+
+areaOfCircumscribedPolygon = math.tan(angle) * math.pi / angle
+print(areaOfCircumscribedPolygon)
 ```
 
 
