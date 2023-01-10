@@ -1,4 +1,4 @@
-﻿# 在坐标纸上绘制Tangent和Cotangent曲线
+# 在坐标纸上绘制Tangent和Cotangent曲线
 
 ## 开始做
 
@@ -20,5 +20,8 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions) 
+	- [Trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions) | [三角函数](https://zh.wikipedia.org/wiki/三角函数) 
+	- [Law of tangents](https://en.wikipedia.org/wiki/Law_of_tangents) | [正切定理](https://zh.wikipedia.org/wiki/正切定理) 
+	- [Law of cotangents](https://en.wikipedia.org/wiki/Law_of_cotangents) | [余切定理](https://zh.wikipedia.org/wiki/余切定理) 
+
 

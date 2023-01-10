@@ -1,4 +1,4 @@
-﻿# 在坐标纸上绘制Sine和Cosine曲线
+# 在坐标纸上绘制Sine和Cosine曲线
 
 ## 开始做
 
@@ -27,6 +27,8 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Sine](https://en.wikipedia.org/wiki/Sine) 
-	- [Trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions) 
+	- [Sine and cosine](https://en.wikipedia.org/wiki/Sine) 
+	- [Law of sines](https://en.wikipedia.org/wiki/Law_of_sines) | [正弦定理](https://zh.wikipedia.org/wiki/正弦定理) 
+	- [Law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines) | [余弦定理](https://zh.wikipedia.org/wiki/余弦定理) 
+	- [Trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions) | [三角函数](https://zh.wikipedia.org/wiki/三角函数) 
 
