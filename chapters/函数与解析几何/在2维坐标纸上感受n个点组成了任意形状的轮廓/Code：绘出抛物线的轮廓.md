@@ -13,6 +13,21 @@
 - 单机右方的[Python Online Compiler](https://trinket.io/python3/a5bd54189b)，稍后在浏览器里会显示python的运行环境。
 - 把下面的这段python代码拷贝到这个页面左侧的空白栏中， 然后单击上方的按键“Run”。
 
+### y = x<sup>2</sup>
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+plt.gca().set_aspect( 1 ) 
+
+x = np.linspace(0,1,21)
+print(x)
+y = x**2
+print(y)
+
+plt.scatter(x,y)
+plt.show()
+```
+
 ### y = -x<sup>2</sup>/30+20
 ```python
 import numpy as np
