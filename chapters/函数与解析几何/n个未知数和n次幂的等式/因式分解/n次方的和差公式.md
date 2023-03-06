@@ -7,5 +7,5 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Difference of two squares](https://en.wikipedia.org/wiki/Difference_of_two_squares) | [平方差](https://zh.wikipedia.org/wiki/平方差) 
 	- [Factorization](https://en.wikipedia.org/wiki/Factorization) | [因式分解](https://zh.wikipedia.org/wiki/因式分解) 
+	- [Difference of two squares](https://en.wikipedia.org/wiki/Difference_of_two_squares) | [平方差](https://zh.wikipedia.org/wiki/平方差) 
