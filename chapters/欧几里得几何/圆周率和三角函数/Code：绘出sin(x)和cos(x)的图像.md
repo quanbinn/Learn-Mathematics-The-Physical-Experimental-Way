@@ -1,4 +1,4 @@
-# Code：绘出tan(x)和ctan(x)的图像
+# Code：绘出sin(x)和cos(x)的图像
 
 ## 打开实验文件
 
@@ -13,12 +13,41 @@
 - 单机右方的[Python Online Compiler](https://trinket.io/python3/a5bd54189b)，稍后在浏览器里会显示python的运行环境。
 - 把下面的这段python代码拷贝到这个页面左侧的空白栏中， 然后单击上方的按键“Run”。
 
-### tan(x)
+### sin(x)
 ```python
+import matplotlib.pyplot as plt
+import numpy as np
 
+x = np.linspace(0, 2 * np.pi, num=256)
+y = np.sin(x)
+plt.plot(x, y)
+
+plt.show()
 ```
 
-### ctan(x)
+### cos(x)
 ```python
+import matplotlib.pyplot as plt
+import numpy as np
 
+x = np.linspace(0, 2 * np.pi, num=256)
+y = np.cos(x)
+plt.plot(x, y)
+
+plt.show()
+```
+
+### sin(x)和cos(x)
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0, 2 * np.pi, num=256)
+y = np.sin(x)
+plt.plot(x, y)
+
+y = np.cos(x)
+plt.plot(x, y)
+
+plt.show()
 ```
