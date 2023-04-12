@@ -18,9 +18,11 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(0, 2 * np.pi, num=256)
+x = np.linspace(0, 2 * np.pi, num=50)
+print(x)
 y = np.sin(x)
-plt.plot(x, y)
+print(y)
+plt.scatter(x, y)
 
 plt.show()
 ```
@@ -30,9 +32,11 @@ plt.show()
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(0, 2 * np.pi, num=256)
+x = np.linspace(0, 2 * np.pi, num=50)
+print(x)
 y = np.cos(x)
-plt.plot(x, y)
+print(y)
+plt.scatter(x, y)
 
 plt.show()
 ```
@@ -42,12 +46,15 @@ plt.show()
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(0, 2 * np.pi, num=256)
-y = np.sin(x)
-plt.plot(x, y)
+x = np.linspace(0, 2 * np.pi, num=50)
+print(x)
+y1 = np.sin(x)
+print(y1)
+plt.scatter(x, y1)
 
-y = np.cos(x)
-plt.plot(x, y)
+y2 = np.cos(x)
+print(y2)
+plt.scatter(x, y2)
 
 plt.show()
 ```
