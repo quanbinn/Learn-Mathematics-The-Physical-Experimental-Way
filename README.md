@@ -1,4 +1,4 @@
-# Learn-Mathematics-The-Physical-Way
+# Learn-Mathematics-The-Physical-Experimental-Way
 ## 《用实体实验法学数学》
 
 ### 实验前的准备
