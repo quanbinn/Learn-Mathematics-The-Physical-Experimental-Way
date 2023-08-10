@@ -30,7 +30,7 @@ plt.scatter(x,y)
 plt.show()
 ```
 
-### y = log<sub>e</sub><sup>x</sup>
+### y = log<sub>e</sub>x
 
 ```python
 import numpy as np
