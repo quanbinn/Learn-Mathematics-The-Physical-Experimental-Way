@@ -51,3 +51,4 @@ plt.show()
 
 1. [math.log(x[, base]) from **docs.python.org**](https://docs.python.org/3/library/math.html)
 2. [Python math.log() Method](https://www.w3schools.com/python/ref_math_log.asp) 
+3. [numpy.log](https://numpy.org/doc/stable/reference/generated/numpy.log.html) 
