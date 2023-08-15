@@ -21,6 +21,8 @@ import math
 import matplotlib.pyplot as plt
 plt.gca().set_aspect( 1 ) 
 
+print(math.e)
+
 x = np.linspace(0,1,21)
 print(x)
 y = math.e**x
@@ -37,6 +39,8 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 plt.gca().set_aspect( 1 ) 
+
+print(math.e)
 
 x = np.linspace(0,math.e,21)
 print(x)
