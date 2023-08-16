@@ -113,3 +113,9 @@ for i in range(5):
 
 plt.show()
 ```
+
+## 参考文献及资料
+
+1. [Chapter 7：Derivatives from **Neural Networks from Scratch**](https://nnfs.io/)
+
+
