@@ -14,5 +14,43 @@
 - 把下面的这段python代码拷贝到这个页面左侧的空白栏中， 然后单击上方的按键“Run”。
 
 ```python
+import matplotlib.pyplot as plt
+import numpy as np
 
+x = np.linspace(-2.5, 2.5, num=51)
+print(x)
+
+y = np.sqrt(np.power(x,2)) 
+print(y)
+
+plt.scatter(x, y)
+plt.show()
+```
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(-2.5, 2.5, num=51)
+print(x)
+
+y = np.sqrt(np.power(x+1,2)) 
+print(y)
+
+plt.scatter(x, y)
+plt.show()
+```
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(-2.5, 2.5, num=51)
+print(x)
+
+y = np.sqrt(np.power(x,2))+1
+print(y)
+
+plt.scatter(x, y)
+plt.show()
 ```
