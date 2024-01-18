@@ -31,4 +31,6 @@
 	- [Law of sines](https://en.wikipedia.org/wiki/Law_of_sines) | [正弦定理](https://zh.wikipedia.org/wiki/正弦定理) 
 	- [Law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines) | [余弦定理](https://zh.wikipedia.org/wiki/余弦定理) 
 	- [Trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions) | [三角函数](https://zh.wikipedia.org/wiki/三角函数) 
+	- [Degree (angle)](https://en.wikipedia.org/wiki/Degree_(angle)) | [度 (角)](https://zh.wikipedia.org/wiki/度 (角))
+	- [Minute and second of arc](https://en.wikipedia.org/wiki/Minute_and_second_of_arc) | [弧分](https://zh.wikipedia.org/wiki/弧分) | [弧秒](https://zh.wikipedia.org/wiki/弧秒) 
 
