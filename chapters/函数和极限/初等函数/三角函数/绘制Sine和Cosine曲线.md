@@ -4,25 +4,25 @@
 
 ### 绘制Sine的实验过程如下图所示。
 
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/0a1.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/0a2.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/0a1.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/0a2.jpg)
 
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/1a1.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/1a2.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/1a3.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/1a1.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/1a2.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/1a3.jpg)
 
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a1.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a2.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a3.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a4.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a5.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a1.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a2.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a3.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a4.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/2a5.jpg)
 
 ### 绘制Cosine的实验过程如下图所示。
 
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a1.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a2.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a3.jpg)
-![](/images/chapters/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a4.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a1.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a2.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a3.jpg)
+![](/images/函数和极限/初等函数/三角函数/绘制Sine和Cosine曲线/3a4.jpg)
 
 ## 参考文献及资料
 
