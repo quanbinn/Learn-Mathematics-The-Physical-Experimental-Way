@@ -14,7 +14,18 @@
 - 把下面的这段python代码拷贝到这个页面“In [ ]:”右侧的空白栏中， 然后单击上方的按键“运行”。
 
 ```python
+import math
 
+print(round(math.sqrt(21), 8))
+print(round(math.sqrt(22), 8))
+print(round(math.sqrt(23), 8))
+print(round(math.sqrt(24), 8))
+print(round(math.sqrt(25), 8))
+print(round(math.sqrt(26), 8))
+print(round(math.sqrt(27), 8))
+print(round(math.sqrt(28), 8))
+print(round(math.sqrt(29), 8))
+print(round(math.sqrt(30), 8))
 ```
 
 ## 参考文献及资料
