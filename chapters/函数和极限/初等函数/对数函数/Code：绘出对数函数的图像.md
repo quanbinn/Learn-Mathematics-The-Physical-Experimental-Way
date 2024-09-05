@@ -51,6 +51,13 @@ plt.scatter(x,y)
 plt.show()
 ```
 
+```python
+import math
+
+for i in range(1,101):
+    print(i,"的对数值是",round(math.log(i,10),8))
+    ```python
+
 ## 参考文献及资料
 
 1. [math.log(x[, base]) from **docs.python.org**](https://docs.python.org/3/library/math.html)

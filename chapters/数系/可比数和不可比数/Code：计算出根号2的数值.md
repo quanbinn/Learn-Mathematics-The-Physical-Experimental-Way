@@ -36,14 +36,14 @@ for i in range(1,100):
 	## print(round(math.pow(i, 1 / 3), 8))
 	## print(round(math.pow(i, 1 / 4), 8))
 	## print(round(math.pow(i, 1 / 5), 8))
-```python
+```
 
 ```python
 import math
 
 for i in range(0,101):
     print(round(math.pow(10, i / 100), 8))
-```python
+```
 
 ## 参考文献及资料
 

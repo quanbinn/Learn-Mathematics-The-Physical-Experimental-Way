@@ -51,6 +51,16 @@ plt.scatter(x,y)
 plt.show()
 ```
 
+```python
+import math
+
+for i in range(1,100):
+    print(round(math.pow(i, 1 / 2), 8))
+	## print(round(math.pow(i, 1 / 3), 8))
+	## print(round(math.pow(i, 1 / 4), 8))
+	## print(round(math.pow(i, 1 / 5), 8))
+```
+
 ## 参考文献及资料
 
 1. [math.log(x[, base]) from **docs.python.org**](https://docs.python.org/3/library/math.html)
