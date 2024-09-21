@@ -1,6 +1,10 @@
 # Learn-Mathematics-The-Physical-Experimental-Way
 ## 《用实体实验法学数学》
 
+<a href="ttps://study.163.com/courses-search?keyword=实体实验法#/?scht=30)"><img src="/images/封面.jpg" width="400"></a>
+
+## [网易云课堂系列课程 - 用实体实验法学数学](https://study.163.com/courses-search?keyword=实体实验法#/?scht=30)
+
 ### 实验前的准备
 
 - [**重要：首先准备好实验材料**](/chapters/实验前的准备/重要：首先准备好实验材料.md) | [作者简介](/chapters/实验前的准备/作者简介.md)
