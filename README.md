@@ -4,7 +4,6 @@
 <a href="ttps://study.163.com/courses-search?keyword=实体实验法#/?scht=30)"><img src="/images/封面.jpg" width="400"></a>
 
 ## [网易云课堂系列课程 - 用实体实验法学数学](https://study.163.com/courses-search?keyword=实体实验法#/?scht=30)
-## 关注[小红书](https://www.xiaohongshu.com/user/profile/66dfe3c3000000001e005e4e)，获取免费视频教程。
 
 ### 实验前的准备
 
