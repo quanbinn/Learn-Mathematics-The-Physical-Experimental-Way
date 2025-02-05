@@ -1,4 +1,4 @@
-# Code：计算出等比的几何无穷级数的和
+# Code：枚举出每一个排列和组合的集合
 
 ## 打开实验文件
 
@@ -8,33 +8,21 @@
 - 在File的第一个下拉菜单“New Notebook” 的右侧箭头处选择“Python 3”，然后会显示一个新的页面
 - 把下面的这段python代码拷贝到这个页面“In [ ]:”右侧的空白栏中， 然后单击上方的按键“运行”。
 
-#### 1/2 + 1/4 + 1/8 + 1/16 + ⋯
+#### 排列
 ```python
-n = 50
-sum = 0
-
-for i in range(1,n):
-    sum += 1/(2**i)
-    print(sum)
+from itertools import permutations
+seq = permutations([2,0,1,9,20,19])
+print(seq)
+for p in list(seq):
+   print(p)
 ```
 
-#### 1/4 + 1/16 + 1/64 + 1/256 + ⋯
+#### 组合
 ```python
-n = 50
-sum = 0
 
-for i in range(1,n):
-    sum += 1/(4**i)
-    print(sum)
 ```
 
-#### 1/1 - 1/2 + 1/3 - 1/4 + 1/5 - 1/6 + ⋯ + 1/(2*n-1) - 1/(2*n)
-```python
-n = 50
-sum = 0
+## 参考文献及资料
 
-for i in range(1,n):
-    print(1/(2*i-1)-1/(2*i))
-    sum += 1/(2*i-1)-1/(2*i)
-    print(sum)
-```
+1. [在Python中的排列组合](https://deepinout.com/python/python-top-articles-python/1694866127_j_permutation-and-combination-in-python.html)
+2. [Python 高效计算组合和排列](https://geek-docs.com/python/python-ask-answer/303_python_counting_combinations_and_permutations_efficiently.html)
