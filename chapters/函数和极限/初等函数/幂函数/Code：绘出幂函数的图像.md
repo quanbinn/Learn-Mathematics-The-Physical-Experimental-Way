@@ -20,7 +20,7 @@ import numpy as np
 x = np.linspace(-2.5, 2.5, num=51)
 print(x)
 
-y = np.sqrt(np.power(x,2)) 
+y = np.power(x,2) 
 print(y)
 
 plt.scatter(x, y)
@@ -34,7 +34,7 @@ import numpy as np
 x = np.linspace(-2.5, 2.5, num=51)
 print(x)
 
-y = np.sqrt(np.power(x+1,2)) 
+y = np.power(x+1,2)
 print(y)
 
 plt.scatter(x, y)
@@ -48,7 +48,7 @@ import numpy as np
 x = np.linspace(-2.5, 2.5, num=51)
 print(x)
 
-y = np.sqrt(np.power(x,2))+1
+y = np.power(x,2)+1
 print(y)
 
 plt.scatter(x, y)
