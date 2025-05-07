@@ -1,4 +1,4 @@
-# Code：计算出二项式系数
+# Code：计算出非整数次幂的二项式系数
 
 ## 打开实验文件
 
@@ -10,12 +10,12 @@
 
 
 ```python
-import math
+from math import gamma
 
-def binomial_coefficient(n, k):
-    return math.factorial(n) // (math.factorial(k) * math.factorial(n - k))
+def generalized_binomial_coefficient(n, k):
+    return gamma(n + 1) / (gamma(k + 1) * gamma(n - k + 1))
 
 # 示例
-n, k = 5, 2
-print(binomial_coefficient(n, k))  # 输出: 10
+n, k = 5.5, 2
+print(generalized_binomial_coefficient(n, k))  # 输出一个浮点数
 ```
